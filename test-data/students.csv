@@ -1,0 +1,4 @@
+id,regNo,fullName,email,status,createdAt
+1,R2025-001,Alice Sharma,alice@example.com,ACTIVE,2025-09-01T10:00:00
+2,R2025-002,Bob Kumar,bob@example.com,ACTIVE,2025-09-01T10:05:00
+3,R2025-003,Clara Das,clara@example.com,ACTIVE,2025-09-02T11:00:00
