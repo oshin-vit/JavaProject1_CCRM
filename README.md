@@ -53,9 +53,10 @@ javac -version
 ```
 
 Example Screenshot:
-<img width="1024" height="1024" alt="Welcome Screen" src="https://github.com/user-attachments/assets/b70fab31-3575-4e8f-b39d-b781ced6f0ce" />
-<img width="1024" height="1024" alt="Installation Progress" src="https://github.com/user-attachments/assets/56dad57d-7028-46a4-bc69-6383d8b0f781" />
-<img width="1024" height="1024" alt="Installation Complete" src="https://github.com/user-attachments/assets/9747bb52-de53-4904-9d99-4bd2e0bed1b6" />
+![Java_Download_Page](https://github.com/user-attachments/assets/e2cd33fa-5a5a-40ad-b3fd-d5840e526ea8)
+<img width="1024" height="1024" alt="Java_setup" src="https://github.com/user-attachments/assets/124c6474-65fc-48db-a543-34697da98aaf" />
+<img width="1024" height="1024" alt="Java_Progress" src="https://github.com/user-attachments/assets/aeac79cb-2aeb-43eb-ad4b-cefbe1098799" />
+<img width="1024" height="1024" alt="JDK_Installed" src="https://github.com/user-attachments/assets/17e3a472-7b61-4fc7-9b34-4b00d35259ae" />
 
 2. Eclipse Setup
 
@@ -66,9 +67,11 @@ Example Screenshot:
 - Create a new Java project and import your CCRM source files
 
 Example Screenshot:
-<img width="1024" height="1024" alt="Download Eclipse Installer" src="https://github.com/user-attachments/assets/899f8e8f-a139-4c88-a331-babf68cf0591" />
-<img width="1024" height="1024" alt="Select Eclipse IDE for Java Developers" src="https://github.com/user-attachments/assets/682d442c-7cb7-492b-948d-8b5365640e33" />
-<img width="1024" height="1024" alt="Configure Installation Options" src="https://github.com/user-attachments/assets/d35e448a-0e4d-4c5c-a373-bbf890229cd3" />
+<img width="1024" height="1024" alt="Download_Eclipse" src="https://github.com/user-attachments/assets/dbef38d7-b0d9-486a-8395-5d6a7da87f20" />
+<img width="1024" height="1024" alt="Eclipse_Installer" src="https://github.com/user-attachments/assets/5a90e90d-9c40-424a-bf37-1e7be6fbf0db" />
+<img width="1024" height="1024" alt="Eclipse_Workspace_Launcher" src="https://github.com/user-attachments/assets/4404f479-bc67-4da2-88f9-1648ec4f3b0b" />
+<img width="1024" height="1024" alt="Eclipse_Set_JDK" src="https://github.com/user-attachments/assets/2e929949-d005-417b-9f2e-a8d35e045ac7" />
+<img width="1024" height="1024" alt="Eclipse_New_Project" src="https://github.com/user-attachments/assets/ea42d74f-f8ad-492d-a1dc-203a6875060f" />
 
 ## Mapping Table: Syllabus Topic → File/Class/Method 
 | Syllabus Topic | File/Class/Method |
